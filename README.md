@@ -2,7 +2,7 @@
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
-Task: to build an interactive dashboard using D3 to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+## Task: to build an interactive dashboard using D3 to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
   - Chart 1: horizontal bar chart with a dropdown menu to display the top 10 OTUs* found in that individual, using sample_values as the values, otu_ids as the labels, and otu_labels as the hovertext.
 
   ![bar Chart](Images/hw01.png)
